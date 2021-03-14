@@ -42,6 +42,7 @@ player_count_best = st.selectbox(
         df["player_count_best"].unique(),
         key=lambda x: int(x.split("+")[0])
     ),
+    index=3,
 )
 
 max_playing_time = st.number_input(
