@@ -1,0 +1,130 @@
+BGG_ID;Title;mechanics;year;categories;average;usersrated;bayesaverage;player_count_best;player_count_min;player_count_max;playing_time;playing_time_min;playing_time_max
+11;Bohnanza;['Hand Management', 'Melding and Splaying', 'Negotiation', 'Set Collection', 'Trading'];1997;['Card Game', 'Farming', 'Negotiation'];7.03612;38330;6.93217;5;2;7;45;45;45
+28;Illuminati - Die Weltverschwörung;['Card Drafting', 'Dice Rolling', 'Network and Route Building', 'Tile Placement', 'Variable Player Powers'];1987;['Card Game', 'Humor', 'Negotiation', 'Political', 'Science Fiction'];6.4835;4845;6.16861;4;2;8;180;60;180
+49;Mamma Mia;['Hand Management', 'Memory'];1998;['Card Game'];6.47106;5690;6.24528;4;2;5;30;30;30
+51;Ricochet Robots;['Grid Movement', 'Modular Board'];1999;['Abstract Strategy', 'Maze', 'Puzzle', 'Real-time'];7.00475;8021;6.72325;4;1;99;30;30;30
+58;Kings & Things;['Area Majority / Influence', 'Area Movement', 'Dice Rolling', 'Events', 'Hexagon Grid', 'Modular Board', 'Secret Unit Deployment'];1986;['Bluffing', 'Exploration', 'Fantasy', 'Humor', 'Territory Building', 'Wargame'];6.50366;1607;5.98213;4;2;4;120;120;120
+88;Torres;['Action Points', 'Area Majority / Influence', 'Enclosure', 'Grid Movement', 'Hand Management', 'Square Grid', 'Three Dimensional Movement', 'Tile Placement'];1999;['Abstract Strategy', 'Medieval'];7.1215;8740;6.84509;4;2;4;60;60;60
+215;Tichu;['Hand Management', 'Ladder Climbing', 'Predictive Bid', 'Team-Based Game'];1991;['Card Game'];7.57948;13314;7.32667;4;4;4;60;60;60
+242;Junta;['Area Movement', 'Dice Rolling', 'Hand Management', 'Simultaneous Action Selection', 'Trading', 'Variable Player Powers', 'Voting'];1978;['Bluffing', 'Humor', 'Mafia', 'Negotiation', 'Political', 'Wargame'];6.69379;5402;6.37298;7;2;7;240;240;240
+340;Zoff im Zoo;['Hand Management', 'Ladder Climbing', 'Team-Based Game', 'Trick-taking'];1999;['Animals', 'Card Game'];6.60728;3402;6.25065;4;3;7;60;60;60
+394;Kahuna;['Area Majority / Influence', 'Card Drafting', 'Hand Management', 'Network and Route Building', 'Take That'];1998;['Abstract Strategy'];6.62841;8441;6.43521;2;2;2;40;30;40
+432;6 nimmt!;['Hand Management', 'Kill Steal', 'Score-and-Reset Game', 'Simultaneous Action Selection'];1994;['Card Game', 'Number'];6.91756;20698;6.79006;5;2;10;45;45;45
+437;Das Labyrinth der Meister;['Map Deformation', 'Modular Board', 'Point to Point Movement'];1991;"[""Children's Game"", 'Fantasy', 'Maze', 'Puzzle']";6.2859;2454;5.95532;2;2;4;30;20;30
+655;Castel. Chaos und Intrige am Hof;['Hand Management', 'Tile Placement'];2000;['Card Game', 'Medieval'];6.10337;1653;5.79455;3;2;5;30;30;30
+811;Rummikub;['Melding and Splaying', 'Set Collection', 'Tile Placement'];1977;['Abstract Strategy', 'Card Game', 'Number'];6.38203;13246;6.22405;4;2;4;60;60;60
+943;Ligretto grün;['Pattern Building'];1988;['Card Game', 'Real-time'];6.17828;3516;5.91339;4;2;4;10;10;10
+943;Ligretto grün;['Pattern Building'];1988;['Card Game', 'Real-time'];6.17828;3516;5.91339;4;2;4;10;10;10
+943;Ligretto rot;['Pattern Building'];1988;['Card Game', 'Real-time'];6.17828;3516;5.91339;4;2;4;10;10;10
+943;Ligretto rot;['Pattern Building'];1988;['Card Game', 'Real-time'];6.17828;3516;5.91339;4;2;4;10;10;10
+1042;Drachengold;['Hand Management', 'Set Collection', 'Take That', 'Trading'];2001;['Bluffing', 'Card Game', 'Fantasy', 'Fighting', 'Negotiation'];6.43937;3073;6.10992;6;3;6;45;45;45
+1117;Kuhhandel;['Auction: Turn Order Until Pass', 'Hand Management', 'Memory', 'Set Collection', 'Simultaneous Action Selection', 'Trading'];1985;['Animals', 'Bluffing', 'Card Game', 'Humor'];6.58336;3690;6.22546;5;3;5;45;45;45
+1198;Set;['Pattern Recognition', 'Set Collection', 'Speed Matching'];1988;['Card Game', 'Puzzle', 'Real-time'];6.48343;10859;6.29526;4;1;20;30;30;30
+1198;Set;['Pattern Recognition', 'Set Collection', 'Speed Matching'];1988;['Card Game', 'Puzzle', 'Real-time'];6.48343;10859;6.29526;4;1;20;30;30;30
+1198;Set!;['Pattern Recognition', 'Set Collection', 'Speed Matching'];1988;['Card Game', 'Puzzle', 'Real-time'];6.48343;10859;6.29526;4;1;20;30;30;30
+1198;Set!;['Pattern Recognition', 'Set Collection', 'Speed Matching'];1988;['Card Game', 'Puzzle', 'Real-time'];6.48343;10859;6.29526;4;1;20;30;30;30
+1308;confusion;['Dice Rolling'];2000;['Action / Dexterity', 'Dice', 'Party Game', 'Puzzle'];5.27208;531;5.43923;4;2;5;20;20;20
+1345;Die Händler von Genua;['Auction/Bidding', 'Bribery', 'Dice Rolling', 'Grid Movement', 'Negotiation', 'Pick-up and Deliver', 'Set Collection', 'Trading'];2001;['Negotiation', 'Renaissance'];7.071;5909;6.71347;5;2;5;120;60;120
+1465;Wizard;['Betting and Bluffing', 'Hand Management', 'Trick-taking'];1984;['Card Game'];6.9283;8386;6.67106;4;3;6;45;45;45
+1465;Wizard;['Betting and Bluffing', 'Hand Management', 'Trick-taking'];1984;['Card Game'];6.9283;8386;6.67106;4;3;6;45;45;45
+1465;Wizard;['Betting and Bluffing', 'Hand Management', 'Trick-taking'];1984;['Card Game'];6.9283;8386;6.67106;4;3;6;45;45;45
+1465;Wizard;['Betting and Bluffing', 'Hand Management', 'Trick-taking'];1984;['Card Game'];6.9283;8386;6.67106;4;3;6;45;45;45
+1568;Starquest;['Dice Rolling', 'Grid Movement', 'Modular Board', 'Simulation', 'Variable Player Powers'];1990;['Miniatures', 'Science Fiction'];7.01173;2719;6.36679;4;2;4;120;120;120
+1927;Munchkin;['Hand Management', 'Take That', 'Variable Player Powers'];2001;['Card Game', 'Fantasy', 'Fighting', 'Humor'];5.89934;41691;5.72865;4;3;6;120;60;120
+2001;Trivial Pursuit Familien Edition;['Roll / Spin and Move'];1993;"[""Children's Game"", 'Party Game', 'Trivia']";5.47906;675;5.47886;4;2;36;90;90;90
+2086;Elfer raus!;['Hand Management'];1925;['Card Game'];5.17616;503;5.40019;4;2;6;30;30;30
+2448;Kalaha;['Mancala'];700;['Abstract Strategy'];5.92071;5938;5.7932;2;2;2;10;10;10
+2952;Trivial Pursuit GENUS Edition;['Roll / Spin and Move', 'Set Collection'];1981;['Party Game', 'Trivia'];5.23174;7465;5.21134;4;2;24;90;90;90
+3314;Lügenbeutel;['Hand Management'];1978;['Bluffing', 'Card Game'];5.38043;94;5.49203;1;2;8;30;30;30
+3377;20 Questions;[];1988;['Deduction', 'Party Game', 'Trivia'];5.66481;673;5.53755;4;2;7;30;30;30
+3725;ReAction;[];2002;"['Card Game', ""Children's Game"", 'Real-time']";5.6655;260;5.52525;4;2;8;10;10;10
+4101;Die Siedler von Catan. Städte & Ritter Erweiterung;['Dice Rolling', 'Hand Management', 'Memory', 'Modular Board', 'Network and Route Building', 'Trading'];2000;['Expansion for Base-game', 'Medieval', 'Negotiation'];7.13638;3627;6.55976;6;5;6;120;120;120
+5014;Hands up;['Pattern Building'];2002;['Action / Dexterity', 'Card Game'];5.92334;413;5.59077;6;2;8;20;20;20
+6424;Mikado;['Physical Removal', 'Push Your Luck', 'Set Collection', 'Take That'];1850;"['Action / Dexterity', ""Children's Game"", 'Party Game']";4.25816;2243;4.74693;3;2;6;30;10;30
+6508;Tom Tube;['Network and Route Building', 'Point to Point Movement', 'Tile Placement'];2003;['Science Fiction'];6.27652;424;5.67046;2;2;2;30;30;30
+6752;Attack!;['Action Points', 'Area Movement', 'Dice Rolling', 'Player Elimination', 'Point to Point Movement', 'Set Collection', 'Trading'];2003;['Economic', 'Miniatures', 'Negotiation', 'Wargame', 'World War II'];5.84157;1832;5.63159;4;2;6;180;180;180
+7688;Junior Memory;['Memory', 'Set Collection', 'Team-Based Game'];1959;"['Animals', 'Card Game', ""Children's Game"", 'Comic Book / Strip', 'Educational', 'Environmental', 'Memory', 'Movies / TV / Radio theme', 'Novel-based', 'Prehistoric']";4.73314;2488;5.0027;2;2;6;30;30;30
+7805;Finstere Flure;['Grid Movement', 'Modular Board'];2003;['Horror', 'Racing'];6.66329;7556;6.44512;5;2;7;60;60;60
+8129;Die sieben Siegel;['Betting and Bluffing', 'Hand Management', 'Predictive Bid', 'Trick-taking'];2003;['Card Game'];6.87014;2261;6.30382;5;3;5;30;30;30
+9217;Sankt Petersburg;['Card Drafting', 'Set Collection'];2004;['Age of Reason', 'Card Game', 'Economic'];7.29888;14570;7.10274;4;2;4;60;45;60
+9220;Saboteur;['Hand Management', 'Hidden Roles', 'Map Addition', 'Network and Route Building', 'Take That', 'Team-Based Game', 'Traitor Game'];2004;['Bluffing', 'Card Game', 'Exploration', 'Fantasy', 'Party Game'];6.57656;25766;6.46287;7;3;10;30;30;30
+11058;Munchkin im Mixer;['Dice Rolling', 'Trading', 'Variable Player Powers'];2004;['Card Game', 'Expansion for Base-game', 'Fighting', 'Humor'];5.86437;852;5.58612;4;3;6;90;90;90
+11160;Think.;['Memory', 'Storytelling'];1997;['Educational', 'Memory', 'Murder/Mystery', 'Negotiation'];6.06531;98;5.53139;1;2;6;90;30;90
+11971;Kakerlakenpoker;['Hand Management', 'Set Collection', 'Single Loser Game'];2004;['Bluffing', 'Card Game', 'Party Game'];6.713;8699;6.50201;5;2;6;20;20;20
+12194;Munchkin Beisst!;['Dice Rolling', 'Trading', 'Variable Player Powers'];2004;['Card Game', 'Fighting', 'Horror', 'Humor'];5.9906;2913;5.74162;4;3;6;90;90;90
+12280;Geistesblitz;['Simultaneous Action Selection'];1991;['Party Game', 'Word Game'];6.225;68;5.52027;1;2;6;10;10;10
+14253;Desperados;['Hand Management'];2004;['American West', 'Card Game'];5.82264;53;5.50839;1;3;5;30;30;30
+16395;Blokus To Go!;['Enclosure', 'Grid Coverage', 'Hand Management', 'Square Grid', 'Tile Placement'];2005;['Abstract Strategy', 'Territory Building'];6.83826;5117;6.509;2;2;2;15;15;15
+18723;Ja. Herr und Meister!;['Acting', 'Role Playing', 'Single Loser Game', 'Storytelling'];2005;['Card Game', 'Fantasy', 'Humor', 'Party Game'];5.88892;2707;5.69358;5;4;16;30;30;30
+18803;Black Stories;['Storytelling'];2004;['Card Game', 'Deduction', 'Horror', 'Humor', 'Murder/Mystery', 'Party Game'];6.03703;4086;5.85584;6;2;15;20;20;20
+21790;Thurn und Taxis;['Card Drafting', 'Hand Management', 'Network and Route Building', 'Set Collection'];2006;['Post-Napoleonic', 'Transportation'];7.101;18148;6.95356;3;2;4;60;60;60
+22484;Einfach Genial Reiseedition für 2;['Hand Management', 'Highest-Lowest Scoring', 'Pattern Building', 'Tile Placement'];2006;['Abstract Strategy'];7.09289;1918;6.37058;2;2;2;30;30;30
+22827;Starcraft das Brettspiel;['Area Majority / Influence', 'Area Movement', 'Card Play Conflict Resolution', 'Deck, Bag, and Pool Building', 'Modular Board', 'Order Counters', 'Variable Player Powers'];2007;['Civilization', 'Fighting', 'Miniatures', 'Science Fiction', 'Space Exploration', 'Territory Building', 'Video Game Theme', 'Wargame'];7.34045;7059;6.93415;4;2;6;240;180;240
+24181;Imperial;['Advantage Token', 'Area Majority / Influence', 'Area Movement', 'Investment', 'Ownership', 'Rondel', 'Stock Holding'];2006;['Economic', 'Nautical', 'Political'];7.61043;8248;7.24356;4;2;6;180;120;180
+25821;Die Werwölfe von Düsterwald;['Player Elimination', 'Role Playing', 'Team-Based Game', 'Variable Player Powers', 'Voting'];2001;['Bluffing', 'Deduction', 'Horror', 'Murder/Mystery', 'Party Game'];6.73951;9899;6.50713;12;8;18;30;30;30
+26054;Black Stories 3;[];2006;['Card Game', 'Deduction', 'Horror', 'Humor', 'Murder/Mystery', 'Party Game'];6.04158;441;5.60564;6;2;15;45;45;45
+30549;Pandemic;['Action Points', 'Cooperative Game', 'Hand Management', 'Point to Point Movement', 'Set Collection', 'Trading', 'Variable Player Powers'];2008;['Medical'];7.60562;102537;7.50589;4;2;4;45;45;45
+31481;Galaxy Trucker;['Dice Rolling', 'Events', 'Real-Time', 'Relative Movement', 'Team-Based Game', 'Tile Placement', 'Track Movement'];2007;['Real-time', 'Science Fiction', 'Space Exploration', 'Transportation'];7.40544;29568;7.28542;4;2;4;60;60;60
+34585;Keltis;['Hand Management', 'Point to Point Movement', 'Set Collection'];2008;[];6.42002;5667;6.20434;3;2;4;30;30;30
+34635;Stone Age;['Contracts', 'Dice Rolling', 'End Game Bonuses', 'Set Collection', 'Turn Order: Progressive', 'Worker Placement'];2008;['Dice', 'Economic', 'Prehistoric'];7.56585;45074;7.45484;4;2;4;90;60;90
+38453;Space Alert. Alarm im Weltall;['Action Queue', 'Area Movement', 'Cooperative Game', 'Elapsed Real Time Ending', 'Hand Management', 'Real-Time', 'Simultaneous Action Selection', 'Solo / Solitaire Game'];2008;['Electronic', 'Real-time', 'Science Fiction', 'Space Exploration'];7.43835;14777;7.2238;5;1;5;30;30;30
+41114;Der Widerstand;['Hidden Roles', 'Memory', 'Roles with Asymmetric Information', 'Simultaneous Action Selection', 'Team-Based Game', 'Traitor Game', 'Voting'];2009;['Bluffing', 'Card Game', 'Deduction', 'Negotiation', 'Party Game', 'Science Fiction', 'Spies/Secret Agents'];7.28346;35986;7.15474;7;5;10;30;30;30
+47218;Yikerz!;[];2009;['Action / Dexterity'];6.07112;329;5.58773;2;1;4;15;15;15
+55829;Axis & Allies Pacific 1940;['Area Majority / Influence', 'Area Movement', 'Dice Rolling', 'Simulation', 'Team-Based Game'];2009;['Economic', 'Fighting', 'Wargame', 'World War II'];7.51747;1636;6.40638;2;2;4;360;360;360
+61470;Phase 10 Master;['Hand Management', 'Set Collection'];2008;['Card Game', 'Number'];5.45408;510;5.48387;3;2;6;60;60;60
+61470;Phase 10 Master;['Hand Management', 'Set Collection'];2008;['Card Game', 'Number'];5.45408;510;5.48387;3;2;6;60;60;60
+61470;Phase 10 Master;['Hand Management', 'Set Collection'];2008;['Card Game', 'Number'];5.45408;510;5.48387;3;2;6;60;60;60
+61470;Phase 10 Master;['Hand Management', 'Set Collection'];2008;['Card Game', 'Number'];5.45408;510;5.48387;3;2;6;60;60;60
+63268;Dobble;['Speed Matching'];2009;"['Card Game', ""Children's Game"", 'Educational', 'Party Game', 'Real-time', 'Sports']";6.62565;12945;6.44694;4;2;8;15;15;15
+63706;11 nimmt!;['Hand Management'];2010;['Card Game'];6.29552;1470;5.87954;4;2;7;30;30;30
+68448;7 Wonders;['Drafting', 'Hand Management', 'Set Collection', 'Simultaneous Action Selection', 'Variable Player Powers'];2010;['Ancient', 'Card Game', 'City Building', 'Civilization', 'Economic'];7.75089;84600;7.65123;4;2;7;30;30;30
+77130;Sid Meier’s Civilization;['Card Drafting', 'Deck, Bag, and Pool Building', 'Grid Movement', 'Hand Management', 'Modular Board', 'Rock-Paper-Scissors', 'Trading', 'Variable Player Powers'];2010;['City Building', 'Civilization', 'Exploration', 'Negotiation', 'Video Game Theme'];7.41109;14438;7.16375;4;2;4;240;120;240
+81250;Stichmeister;['Trick-taking'];2010;['Card Game'];6.71778;412;5.75472;4;3;5;45;45;45
+92110;Krimi total: Die Party der Intrigen;['Acting', 'Role Playing', 'Storytelling'];2009;['Bluffing', 'Deduction', 'Murder/Mystery'];7.80714;14;0.0;1;8;9;180;180;180
+92539;7 Wonders: Leaders;['Card Drafting', 'Hand Management', 'Set Collection', 'Simultaneous Action Selection', 'Variable Player Powers'];2011;['Ancient', 'Card Game', 'City Building', 'Civilization', 'Expansion for Base-game'];7.83226;13509;7.5508;4;2;7;40;40;40
+92828;Dixit Odyssey;['Storytelling', 'Targeted Clues', 'Voting'];2011;['Card Game', 'Humor', 'Party Game'];7.45044;16768;7.23552;6;3;12;30;30;30
+98778;Hanabi;['Communication Limits', 'Cooperative Game', 'Hand Management', 'Memory', 'Roles with Asymmetric Information', 'Set Collection'];2010;['Card Game', 'Deduction', 'Memory'];7.08328;39019;6.98817;4;2;5;25;25;25
+102794;Caverna: Die Höhlenbauern;['Automatic Resource Growth', 'Increase Value of Unchosen Resources', 'Solo / Solitaire Game', 'Tile Placement', 'Turn Order: Claim Action', 'Worker Placement'];2013;['Animals', 'Economic', 'Fantasy', 'Farming'];8.01946;28193;7.84796;4;1;7;210;30;210
+105137;Dreck am Stecken (Krimi-Kartenspiel);[];2011;['Card Game', 'Deduction'];5.1;2;0.0;6+;3;6;50;50;50
+105593;Mogelmotte;['Hand Management'];2011;['Action / Dexterity', 'Card Game'];6.42889;2864;6.05956;5;3;5;30;30;30
+108415;Sid Meier’s Civilization Ruhm und Reichtum Erweiterung;['Grid Movement', 'Hand Management', 'Modular Board', 'Rock-Paper-Scissors', 'Simultaneous Action Selection', 'Trading', 'Variable Player Powers'];2011;['Civilization', 'Expansion for Base-game', 'Exploration', 'Negotiation', 'Video Game Theme'];8.01966;2274;6.93598;4;2;5;180;180;180
+111661;7 Wonders: Cities;['Card Drafting', 'Hand Management', 'Set Collection', 'Simultaneous Action Selection', 'Team-Based Game', 'Variable Player Powers'];2012;['Ancient', 'Card Game', 'City Building', 'Civilization', 'Expansion for Base-game'];7.83894;9880;7.47465;4;2;8;40;40;40
+127398;Die Legenden von Andor;['Area Movement', 'Cooperative Game', 'Dice Rolling', 'Scenario / Mission / Campaign Game', 'Variable Player Powers'];2012;['Adventure', 'Fantasy', 'Fighting', 'Puzzle'];7.2043;15077;6.98536;4;2;4;90;60;90
+128667;Samurai Sword;['Hand Management', 'Team-Based Game', 'Variable Player Powers'];2012;['Bluffing', 'Card Game', 'Deduction', 'Fighting', 'Medieval'];6.67972;3287;6.24987;7;3;7;40;20;40
+130060;Ohne Furcht und Adel;['Card Drafting', 'Variable Phase Order', 'Variable Player Powers'];2012;['Bluffing', 'Card Game', 'City Building', 'Fantasy', 'Medieval'];7.05426;1064;6.08648;4;2;7;60;60;60
+131260;Qwixx;['Bingo', 'Dice Rolling', 'Paper-and-Pencil'];2012;['Dice', 'Math', 'Number'];6.88169;9558;6.66671;4;2;5;15;15;15
+136986;Die Legenden von Andor. Der Sternenschild Erweiterung;['Cooperative Game', 'Dice Rolling'];2013;['Adventure', 'Expansion for Base-game', 'Fantasy'];7.79103;1246;6.46478;4;2;4;90;60;90
+137168;Klugscheisser;[];2010;['Card Game', 'Party Game', 'Trivia'];4.4561;41;5.47464;0+;2;0;0;0;0
+139370;Krimi total: Das Geheimnis der Burg Wolfsklamm;['Acting', 'Role Playing', 'Storytelling'];2012;['Bluffing', 'Medieval', 'Murder/Mystery', 'Party Game'];6.0;7;0.0;9+;8;9;240;240;240
+142708;Sid Meier’s Civilization Weisheit und Kriegskunst Erweiterung;['Grid Movement', 'Hand Management', 'Modular Board', 'Rock-Paper-Scissors', 'Simultaneous Action Selection', 'Trading', 'Variable Player Powers'];2013;['Civilization', 'Expansion for Base-game', 'Exploration', 'Negotiation', 'Video Game Theme'];8.28647;1422;6.76773;4;2;4;180;180;180
+144733;Russian Railroads;['End Game Bonuses', 'Worker Placement'];2013;['Industry / Manufacturing', 'Trains'];7.7729;14893;7.54321;4;2;4;120;90;120
+147151;Concept;['Communication Limits', 'Team-Based Game'];2013;['Deduction', 'Party Game'];6.81901;15482;6.67085;6;4;12;40;40;40
+147721;Karnickel;['Modular Board', 'Push Your Luck', 'Roll / Spin and Move'];2013;"['Animals', ""Children's Game"", 'Dice', 'Racing', 'Trains']";5.42942;150;5.4912;4;2;4;15;15;15
+147768;Fünf Gurken;['Player Elimination', 'Trick-taking'];2013;['Card Game'];5.90354;1160;5.66985;5;2;6;25;25;25
+148949;Istanbul;['Contracts', 'Dice Rolling', 'Grid Movement', 'Modular Board', 'Network and Route Building', 'Pick-up and Deliver', 'Race', 'Variable Set-up', 'Worker Placement'];2014;['Economic'];7.5784;25333;7.42924;4;2;5;60;40;60
+151825;Die Legenden von Andor. Neue Helden Erweiterung.;['Area Movement', 'Cooperative Game', 'Dice Rolling', 'Pick-up and Deliver'];2014;['Adventure', 'Expansion for Base-game', 'Fantasy'];7.52231;1063;6.2621;4;2;6;90;60;90
+155703;evolution;['Action Points', 'Hand Management', 'Push Your Luck', 'Secret Unit Deployment', 'Simulation', 'Simultaneous Action Selection', 'Take That'];2014;['Animals', 'Card Game', 'Educational', 'Environmental', 'Fighting', 'Prehistoric', 'Print & Play'];7.13298;13655;6.92167;4;2;6;60;60;60
+164840;Monopoly Deal;['Hand Management', 'Set Collection', 'Take That'];2014;['Card Game'];6.31799;963;5.76414;3;2;3;15;15;15
+172225;Exploding Kittens;['Hand Management', 'Hot Potato', 'Player Elimination', 'Push Your Luck', 'Set Collection', 'Take That'];2015;['Animals', 'Card Game', 'Comic Book / Strip', 'Humor'];6.03542;21674;5.84796;4;2;5;15;15;15
+172308;Broom Service;['Area Movement', 'Follow', 'Hand Management', 'Pick-up and Deliver', 'Set Collection', 'Simultaneous Action Selection', 'Variable Phase Order'];2015;['Fantasy'];7.19349;8121;6.90214;4;2;5;75;30;75
+173090;The Game;['Communication Limits', 'Cooperative Game', 'Hand Management', 'Solo / Solitaire Game'];2015;['Card Game', 'Number'];6.71151;8532;6.50613;3;1;5;20;20;20
+178900;Codenames;['Communication Limits', 'Memory', 'Push Your Luck', 'Team-Based Game'];2015;['Card Game', 'Deduction', 'Party Game', 'Spies/Secret Agents', 'Word Game'];7.61739;67945;7.52954;6;2;8;15;15;15
+181867;3 sind eine zu viel!;['Hand Management', 'Set Collection'];2015;['Card Game'];6.55762;281;5.65548;3;2;4;25;25;25
+181960;Die Portale von Molthar;['Action Points', 'Hand Management', 'Set Collection'];2015;['Card Game', 'Fantasy'];6.80828;1252;6.05525;3;2;5;45;45;45
+191057;Halt Mal Kurz;['Rock-Paper-Scissors', 'Take That', 'Voting'];2016;['Card Game', 'Humor'];5.85728;741;5.59344;5;3;5;20;20;20
+196326;Love Letter - Big Box;['Hand Management', 'Player Elimination'];2016;['Card Game', 'Deduction'];7.46484;4358;6.90492;4;2;8;30;20;30
+198773;Codenames Pictures;['Communication Limits', 'Memory', 'Push Your Luck', 'Team-Based Game'];2016;['Card Game', 'Deduction', 'Party Game', 'Spies/Secret Agents'];7.25777;17091;7.08073;6;2;8;15;15;15
+203420;Exit: Die Verlassene Hütte;['Cooperative Game'];2016;['Deduction', 'Puzzle', 'Real-time'];7.53088;8864;7.21315;2;1;6;120;60;120
+204583;Kingdomino;['Card Drafting', 'Tile Placement'];2016;['City Building', 'Medieval', 'Territory Building'];7.35288;32485;7.22749;2;2;4;15;15;15
+206939;Dodelido;['Acting'];2016;"['Action / Dexterity', 'Animals', 'Card Game', ""Children's Game"", 'Real-time']";6.62475;630;5.81699;4;2;6;20;10;20
+218311;Deckscape Der Test;['Cooperative Game', 'Real-Time'];2017;['Card Game', 'Puzzle', 'Real-time'];6.71551;2006;6.18031;2;1;6;90;30;90
+224037;Codenames Duett;['Communication Limits', 'Cooperative Game', 'Push Your Luck', 'Team-Based Game'];2017;['Card Game', 'Deduction', 'Spies/Secret Agents', 'Word Game'];7.56693;14094;7.34771;2;2;99;30;15;30
+244992;The Mind;['Communication Limits', 'Cooperative Game'];2018;['Card Game', 'Number'];6.91065;19454;6.7692;4;2;4;15;15;15
+245136;Bluff;['Dice Rolling', 'Player Elimination'];2018;['Bluffing'];6.83479;284;5.69649;6;2;6;30;30;30
+245932;Caverna: Die Vergessenen Völker;['Tile Placement', 'Variable Player Powers', 'Worker Placement'];2018;['Animals', 'Economic', 'Expansion for Base-game', 'Fantasy', 'Farming'];8.38614;894;6.51651;2;1;7;210;30;210
+254640;Just One;['Communication Limits', 'Cooperative Game'];2018;['Party Game', 'Word Game'];7.602;11904;7.34511;6;3;7;20;20;20
+257964;LifeStyle;[];2018;['Card Game'];5.81333;54;5.51082;1;2;5;0;45;0
+263918;Der Kartograph;['Bingo', 'Grid Coverage', 'Line Drawing', 'Paper-and-Pencil', 'Solo / Solitaire Game', 'Square Grid'];2019;['Fantasy', 'Territory Building'];7.75651;10990;7.439;4;1;100;45;30;45
+266083;Lama;['Hand Management', 'Matching'];2019;['Card Game'];6.50406;3835;6.19199;5;2;6;20;20;20
+283934;Exit: Der Raub auf dem Mississipi;['Cooperative Game', 'Deduction'];2019;['Deduction', 'Murder/Mystery', 'Nautical'];7.30445;607;5.9928;2;1;4;90;45;90
+285893;HiLo;[];2019;['Card Game'];5.9027;115;5.52024;3;2;6;30;30;30
